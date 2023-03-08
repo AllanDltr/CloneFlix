@@ -24,6 +24,7 @@
     width: 45rem;
     max-width: 360px;
     height: 80px;
+    padding-top: 10px;
 }
 
 .banner__button {
